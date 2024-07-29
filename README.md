@@ -23,3 +23,7 @@ Since the team is comprised of only one person, the chosen branching strategy fo
 
 ## Storage of Credentials and Sensetive Information
 Github has a dedicated security feature, GitHub secrets, pertaining to the protection of sensitive information. With this feature, github provides encryption and the sensitive information can be accessed via workflows without hard coding it in source code.
+
+## Burndown Chart
+![Picture2](https://github.com/user-attachments/assets/467ccda2-52a2-49c9-ac22-8b6cf19053d8)
+
